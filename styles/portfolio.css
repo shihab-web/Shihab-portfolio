@@ -1,20 +1,76 @@
-*{
-    margin 0;
-    font-family: 'Open Sans', sans-serif;
+* {
+    margin: 25px;
+    font-family: 'Work Sans', sans-serif;
     font-weight: 400;
     font-size: 16px;
+
+    line-height: 40px;
+    text-align: right;
+    align-items: center;
+
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+
+
+
 }
-.btn-color{
+
+.btn-color {
     color: #005FAC;
     background: #FFFFFF;
-    
+
     position: absolute;
-width: 160px;
-height: 64px;
-left: 1210px;
-top: 578px;
-
-
-
-
+    width: 160px;
+    height: 64px;
+    border: 0;
+    padding: 16px 40px;
+    left: 1210px;
+    top: 578px;
 }
+
+.front-size {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    color: #FFFFFF;
+    
+}
+
+.text-pri {
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+
+    text-align: right;
+    padding: right;
+    margin: 50px;
+}
+.banner{
+    margin: 820px,255px,50px,30px;
+}
+.margin line{
+    margin-right: 30px;
+}
+        
+
